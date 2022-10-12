@@ -1,3 +1,4 @@
 * Attention avec csv-parse, il faut utiliser la version: 
 "csv-parse": "^4.4.6" source: https://www.inflearn.com/questions/392141
 
+* Installation du package cors, pour envoyer le json parse
